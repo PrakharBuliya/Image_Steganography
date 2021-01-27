@@ -1,0 +1,3 @@
+/home/blaze/Desktop/MINOR/Steganography-In-C-FINAL/build/CMakeFiles/rebuild_cache.dir
+/home/blaze/Desktop/MINOR/Steganography-In-C-FINAL/build/CMakeFiles/edit_cache.dir
+/home/blaze/Desktop/MINOR/Steganography-In-C-FINAL/build/CMakeFiles/proj.dir

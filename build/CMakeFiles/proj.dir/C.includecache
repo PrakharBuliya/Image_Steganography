@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/blaze/Desktop/MINOR/Steganography-In-C-FINAL/decode.c
+decode.h
+/home/blaze/Desktop/MINOR/Steganography-In-C-FINAL/decode.h
+
+/home/blaze/Desktop/MINOR/Steganography-In-C-FINAL/decode.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/blaze/Desktop/MINOR/Steganography-In-C-FINAL/encode.c
+encode.h
+/home/blaze/Desktop/MINOR/Steganography-In-C-FINAL/encode.h
+string.h
+-
+stdlib.h
+-
+assert.h
+-
+
+/home/blaze/Desktop/MINOR/Steganography-In-C-FINAL/encode.h
+stdio.h
+-
+
+/home/blaze/Desktop/MINOR/Steganography-In-C-FINAL/main.c
+encode.h
+/home/blaze/Desktop/MINOR/Steganography-In-C-FINAL/encode.h
+decode.h
+/home/blaze/Desktop/MINOR/Steganography-In-C-FINAL/decode.h
+

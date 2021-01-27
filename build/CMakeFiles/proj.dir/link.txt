@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/proj.dir/encode.c.o CMakeFiles/proj.dir/decode.c.o CMakeFiles/proj.dir/main.c.o  -o proj 
